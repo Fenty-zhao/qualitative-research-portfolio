@@ -2,7 +2,13 @@
 
 **MSc Social Research Methods and Statistics · University of Manchester**
 
-Qualitative coursework exploring **how people construct meaning, describe lived experience, and respond to social expectations**. The emphasis is on **research decisions and analytical evidence**: question formulation, interview design, qualitative coding, theme development, and critical reflexivity.
+**English · Portfolio statement**  
+This portfolio presents qualitative research carried out during my MSc at the University of Manchester. It highlights how I designed and conducted interviews, analysed participant accounts, developed research findings and reflected on research decisions—skills I can bring to user research roles.
+
+**中文 · 作品集简介**  
+本作品集展示我在曼彻斯特大学硕士学习期间完成的质性研究，重点呈现访谈设计与实施、受访者叙述分析、研究发现提炼及研究过程反思。这些经历也体现了我能够运用到用户研究岗位中的方法与能力。
+
+---
 
 ## Featured case study
 
