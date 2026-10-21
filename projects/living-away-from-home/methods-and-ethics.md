@@ -1,7 +1,7 @@
 # Methods, Ethics, and Source Transparency
 
 ## Design
-This coursework mini-project used purposive sampling and a single online, semi-structured interview with an international Master's student. The original report describes a participant information sheet and informed consent.
+This coursework mini-project used a single online, semi-structured interview with a Chinese international Master's student. I contacted a classmate I already knew and thought would be willing to participate; she met the study's basic criteria. The submitted report called this **purposive sampling**, while the actual recruitment route also reflects **convenience-based recruitment**. The report describes a participant information sheet and informed consent.
 
 ## Public portfolio consent
 The participant has agreed to the use of **anonymised interview excerpts** in a public portfolio. This repository does not include the unredacted transcript, recording, consent form, or complete original drafts.
