@@ -1,48 +1,63 @@
-# Qualitative Research Portfolio
+# Qualitative Research Portfolio · 质性研究作品集
 
-**MSc Social Research Methods and Statistics · University of Manchester**
+**MSc Social Research Methods and Statistics · University of Manchester**  
+**曼彻斯特大学 · 社会研究方法与统计学硕士**
 
-**English · Portfolio statement**  
-This portfolio presents qualitative research carried out during my MSc at the University of Manchester. It highlights how I designed and conducted interviews, analysed participant accounts, developed research findings and reflected on research decisions—skills I can bring to user research roles.
+### Portfolio Statement · 作品集简介
 
-**中文 · 作品集简介**  
-本作品集展示我在曼彻斯特大学硕士学习期间完成的质性研究，重点呈现访谈设计与实施、受访者叙述分析、研究发现提炼及研究过程反思。这些经历也体现了我能够运用到用户研究岗位中的方法与能力。
+**English**  
+This portfolio presents a qualitative interview study completed during my MSc. It highlights [semi-structured interviewing](projects/living-away-from-home/README.md#research-process), [qualitative coding and thematic analysis](projects/living-away-from-home/coding-to-themes.md), [research insight synthesis](projects/living-away-from-home/README.md#4-developing-findings), and [researcher reflexivity](projects/living-away-from-home/reflexivity.md)—research skills relevant to user and UX research.
+
+**中文**  
+本作品集展示我在硕士课程中完成的一项质性访谈研究，重点呈现[半结构式访谈与追问](projects/living-away-from-home/README.md#research-process)、[质性编码与主题分析](projects/living-away-from-home/coding-to-themes.md)、[研究洞察整合](projects/living-away-from-home/README.md#4-developing-findings)，以及[研究者反思](projects/living-away-from-home/reflexivity.md)等可应用于用户研究工作的能力。
 
 ---
 
-## Featured case study
+## Featured Case Study · 研究案例
 
 ### [Making Sense of Challenges While Living Away from Home](projects/living-away-from-home/README.md)
+**理解离家生活中的挑战**
 
-**SOCY60231 · Introduction to Qualitative Research Methods · Coursework mini-project**
+*Introduction to Qualitative Research Methods · MSc coursework / 质性研究方法课程项目*
 
-How does an international master's student living independently in the UK **understand** everyday challenges, and how do they **respond** to them?
+**Research question / 研究问题**  
+How do students make sense of and respond to the challenges they face when living away from home?  
+学生如何理解并应对离家生活中遇到的困难？
 
-| Study component | Approach |
+**At a glance / 项目概览:** One Chinese international Master's student / 一名中国国际硕士生 · Online semi-structured interview / 线上半结构式访谈 · Manual and AI-assisted analysis / 人工分析与 AI 辅助整理 · Three themes / 三个主题
+
+---
+
+## Research Skills & Evidence · 研究能力与证据
+
+| Research skill / 研究能力 | What I did / 我具体做了什么 | Evidence / 研究证据 |
+| --- | --- | --- |
+| **Interview design & probing**<br>访谈设计与追问 | Developed an interview guide, conducted the interview, and followed up on how the participant understood challenges.<br>设计访谈提纲并完成访谈，通过追问理解受访者如何定义挑战。 | [Interview process →](projects/living-away-from-home/README.md#research-process) |
+| **Qualitative coding & thematic analysis**<br>质性编码与主题分析 | Reviewed interview material and organised codes into three themes, with manual work and AI assistance.<br>整理访谈材料与编码，在人工分析及 AI 辅助下归纳三个主题。 | [Coding → Themes →](projects/living-away-from-home/coding-to-themes.md) |
+| **Insight synthesis**<br>研究洞察整合 | Connected the participant's interpretations of difficulty, coping practices, and responses to social labels.<br>将受访者对困难的理解、应对方式及对社会标签的回应联系起来。 | [Research findings →](projects/living-away-from-home/README.md#4-developing-findings) |
+| **Adaptive interviewing & reflexivity**<br>灵活追问与研究者反思 | Adjusted questions when an assumption did not fit, and reviewed the effects of familiarity and interviewer interventions.<br>根据实际回答调整提问，反思熟悉关系与访谈者介入对研究过程的影响。 | [Research reflection →](projects/living-away-from-home/reflexivity.md) |
+| **Research ethics & evidence evaluation**<br>研究伦理与证据评估 | Used consent procedures, anonymised public material, and assessed the limits of evidence from one interview.<br>遵循知情同意与匿名呈现要求，评估单次访谈能够支持的结论范围。 | [Methods & ethics →](projects/living-away-from-home/methods-and-ethics.md) |
+
+---
+
+## Explore the Research · 阅读导航
+
+The detailed research pages remain in English. / **详细研究页面保留英文原文。**
+
+| Section / 页面 | Read / 查看 |
 | --- | --- |
-| Research design | Qualitative, single-participant case study |
-| Sampling | Purposive sampling |
-| Data collection | One-to-one online semi-structured interview |
-| Analysis | Manual qualitative coding and inductive thematic analysis, with AI-assisted organisation and drafting |
-| Reflexivity | Insider assumptions, interview interruptions, leading questions, and adjustments during fieldwork |
-| Limitations | One participant, no triangulation, limited transferability |
+| Full case study / 完整研究案例 | [Research design and findings →](projects/living-away-from-home/README.md) |
+| Coding evidence / 编码与主题对应 | [Coding → Themes →](projects/living-away-from-home/coding-to-themes.md) |
+| Researcher reflexivity / 研究者反思 | [Reflexivity →](projects/living-away-from-home/reflexivity.md) |
+| Methods and ethics / 研究方法与伦理 | [Methods & Ethics →](projects/living-away-from-home/methods-and-ethics.md) |
 
-**Explore the research process**
+## Other Research · 其他研究
 
-1. [Research design and findings](projects/living-away-from-home/README.md)
-2. [Coding → themes: anonymised analytic examples](projects/living-away-from-home/coding-to-themes.md)
-3. [Researcher reflexivity and methodological learning](projects/living-away-from-home/reflexivity.md)
-4. [Research ethics, source materials and AI-use disclosure](projects/living-away-from-home/methods-and-ethics.md)
+- [Gaming Livestream Community Research](https://github.com/Fenty-zhao/gaming-livestream-community-research) · 游戏直播社群的用户研究（中英双语）
+- [Quantitative Research Portfolio](https://github.com/Fenty-zhao/quantitative-research-portfolio) · 定量研究作品集
 
-## Why this matters for user research
+## Ethics & Transparency · 伦理与透明说明
 
-The case demonstrates transferable **generative research** skills: constructing an interview guide, following up on unexpected responses, organising qualitative material into themes, recognising researcher influence, and communicating insights with appropriate limits. It is **academic exploratory research**, not a commercial UX study or representative user sample.
+The participant agreed to anonymised public presentation. Raw transcripts, recordings and identifying information are not published. Selected coding links were reconstructed for portfolio presentation from saved draft materials; AI assisted in organising and writing the analysis.
 
-## Other related work
-
-- [Gaming Livestream Community Research](https://github.com/Fenty-zhao/gaming-livestream-community-research) — a separate user-behaviour research project
-- [Quantitative Research Portfolio](https://github.com/Fenty-zhao/quantitative-research-portfolio) — statistical modelling, longitudinal research, and causal reasoning
-
-## Privacy and transparency
-
-The participant agreed to **anonymised public presentation**. No complete interview transcript, recordings, consent forms, identifying background details, or unredacted draft documents are published here. Selected passages are kept brief and anonymised; English translations are marked as translations. This repository represents coursework plus a **later portfolio reconstruction**, which is clearly distinguished from original saved analysis materials. Manual analysis was supported by AI; no NVivo/ATLAS.ti use is claimed.
+受访者同意匿名公开展示。仓库不发布原始逐字稿、录音或可识别个人身份的信息。部分编码与主题的对应关系是根据保留的草稿材料为作品集重新整理的，AI 参与了分析材料的组织和写作辅助。
