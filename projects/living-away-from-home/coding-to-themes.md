@@ -1,6 +1,6 @@
 # From Interview Excerpts to Themes
 
-[← Case study](README.md) · [Researcher reflexivity](reflexivity.md) · [Methods & ethics](methods-and-ethics.md)
+[← Case study](README.md) · [Researcher reflexivity](reflexivity-EN.md) · [Methods & ethics](methods-and-ethics.md)
 
 This page shows examples of how interview material informed the thematic analysis. The **named codes under Theme 1** appear in the surviving Chinese working draft. For portfolio presentation, I linked selected excerpts and paraphrases to those working codes and to the three themes in the submitted report.
 
@@ -76,4 +76,4 @@ The saved materials include a Chinese transcript excerpt, an early Chinese draft
 
 The analysis involved manual interpretation and AI-assisted organisation and writing. Full transcripts, names and identifying details are not published. The participant agreed to anonymised use in the public portfolio.
 
-[← Full case study](README.md) · [Researcher reflexivity](reflexivity.md)
+[← Full case study](README.md) · [Researcher reflexivity](reflexivity-EN.md)
