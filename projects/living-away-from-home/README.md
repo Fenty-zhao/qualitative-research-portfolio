@@ -2,7 +2,7 @@
 
 **An interview-based qualitative research case study · University of Manchester MSc coursework**
 
-[Portfolio home](../../README.md) · [Coding evidence](coding-to-themes.md) · [Research reflection](reflexivity.md) · [Methods & ethics](methods-and-ethics.md)
+[Portfolio home](../../README.md) · [Coding evidence](coding-to-themes.md) · [Research reflection](reflexivity-EN.md) · [Methods & ethics](methods-and-ethics.md)
 
 ## Project overview
 
@@ -35,7 +35,7 @@ The interview guide provided direction, but some questions needed to change as I
 
 The interview also developed through clarification and follow-up. For example, when she described “leaving home” as something concrete rather than an emotionally significant separation, I returned to an earlier point in the conversation and invited her to explain what she meant.
 
-Our shared language and cultural references helped the conversation flow, while the differences in our educational backgrounds also made some of my initial expectations visible. I explore both sides of this relationship in the [research reflection](reflexivity.md).
+Our shared language and cultural references helped the conversation flow, while the differences in our educational backgrounds also made some of my initial expectations visible. I explore both sides of this relationship in the [research reflection](reflexivity-EN.md).
 
 ### 3. Analysing the material
 
@@ -95,7 +95,7 @@ Two experiences were especially useful for examining my interview practice.
 
 Shared cultural references and an existing peer relationship also supported a natural conversation. One exchange about whether responses to difficulty might be linked to East Asian cultural expectations led the participant to question that generalisation, opening a discussion rather than simply confirming my suggestion.
 
-[Read the fuller discussion of rapport, interviewer decisions and positionality →](reflexivity.md)
+[Read the fuller discussion of rapport, interviewer decisions and positionality →](reflexivity-EN.md)
 
 ## Scope and next steps
 
@@ -108,7 +108,7 @@ If developed further, the research could involve students from different educati
 | What to examine | Detailed page |
 | --- | --- |
 | How interview material was interpreted | [Coding → Themes](coding-to-themes.md) |
-| How the interview developed and what I learned from it | [Researcher Reflexivity](reflexivity.md) |
+| How the interview developed and what I learned from it | [Researcher Reflexivity](reflexivity-EN.md) |
 | Recruitment, consent, source materials and AI assistance | [Methods & Ethics](methods-and-ethics.md) |
 
 [← Back to the portfolio homepage](../../README.md)
