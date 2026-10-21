@@ -36,13 +36,13 @@ This portfolio presents a qualitative interview study from my MSc. Through this 
 
 ## Explore the research
 
-All detailed case-study pages are in English.
+The case study, coding and methods pages are in English; the research reflection is available in both English and Chinese.
 
 | Section | Read |
 | --- | --- |
 | Full case study | [Research design and findings →](projects/living-away-from-home/README.md) |
 | Coding evidence | [Coding → Themes →](projects/living-away-from-home/coding-to-themes.md) |
-| Researcher reflexivity | [Reflexivity →](projects/living-away-from-home/reflexivity.md) |
+| Researcher reflexivity | [English →](projects/living-away-from-home/reflexivity.md) · [简体中文 →](docs/zh/REFLEXIVITY.md) |
 | Methods and ethics | [Methods & Ethics →](projects/living-away-from-home/methods-and-ethics.md) |
 
 ## Other research
