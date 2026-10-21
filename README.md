@@ -6,7 +6,7 @@
 
 ## Portfolio statement
 
-This portfolio presents a qualitative interview study from my MSc. Through this project, I practised [semi-structured interviewing](projects/living-away-from-home/README.md#research-process), [qualitative coding and thematic analysis](projects/living-away-from-home/coding-to-themes.md), [insight synthesis](projects/living-away-from-home/README.md#4-developing-findings), and [researcher reflexivity](projects/living-away-from-home/reflexivity.md)—skills directly relevant to user and UX research.
+This portfolio presents a qualitative interview study from my MSc. Through this project, I practised [semi-structured interviewing](projects/living-away-from-home/README.md#research-process), [qualitative coding and thematic analysis](projects/living-away-from-home/coding-to-themes.md), [insight synthesis](projects/living-away-from-home/README.md#4-developing-findings), and [researcher reflexivity](projects/living-away-from-home/reflexivity-EN.md)—skills directly relevant to user and UX research.
 
 ---
 
@@ -29,7 +29,7 @@ This portfolio presents a qualitative interview study from my MSc. Through this 
 | **Interview design & probing** | Prepared a semi-structured guide, conducted the interview, and followed up on how the participant understood challenges. | [Interview process →](projects/living-away-from-home/README.md#research-process) |
 | **Qualitative coding & thematic analysis** | Reviewed interview material and organised working codes into three themes, with manual interpretation and AI support. | [Coding → Themes →](projects/living-away-from-home/coding-to-themes.md) |
 | **Insight synthesis** | Connected findings about the participant's interpretations, coping practices, and responses to social labels. | [Research findings →](projects/living-away-from-home/README.md#4-developing-findings) |
-| **Adaptive interviewing & reflexivity** | Adjusted questions when an initial assumption did not fit and reflected on the influence of familiarity and interviewer interventions. | [Research reflection →](projects/living-away-from-home/reflexivity.md) |
+| **Adaptive interviewing & reflexivity** | Adjusted questions when an initial assumption did not fit and reflected on the influence of familiarity and interviewer interventions. | [Research reflection →](projects/living-away-from-home/reflexivity-EN.md) |
 | **Research ethics & evidence evaluation** | Used informed-consent procedures, anonymised portfolio materials, and assessed the limits of evidence from one interview. | [Methods & ethics →](projects/living-away-from-home/methods-and-ethics.md) |
 
 ---
@@ -42,7 +42,7 @@ The case study, coding and methods pages are in English; the research reflection
 | --- | --- |
 | Full case study | [Research design and findings →](projects/living-away-from-home/README.md) |
 | Coding evidence | [Coding → Themes →](projects/living-away-from-home/coding-to-themes.md) |
-| Researcher reflexivity | [English →](projects/living-away-from-home/reflexivity.md) · [简体中文 →](docs/zh/REFLEXIVITY.md) |
+| Researcher reflexivity | [English →](projects/living-away-from-home/reflexivity-EN.md) · [简体中文 →](docs/zh/reflexivity-ZH.md) |
 | Methods and ethics | [Methods & Ethics →](projects/living-away-from-home/methods-and-ethics.md) |
 
 ## Other research
