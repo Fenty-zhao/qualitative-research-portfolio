@@ -1,3 +1,5 @@
+[**English**](reflexivity.md) | [简体中文](../../docs/zh/REFLEXIVITY.md)
+
 # Researcher Reflexivity: Interview Decisions, Rapport and Assumptions
 
 [← Case study](README.md) · [Coding evidence](coding-to-themes.md) · [Methods & ethics](methods-and-ethics.md)
@@ -57,19 +59,5 @@ This project gave me practical experience in interview design, data collection, 
 **Connecting findings to action.** My coursework focused on interpreting one participant's experience through three themes. In a product setting, I would also consider how findings compare across participants, what evidence supports each interpretation, and which product decisions they could inform. Where interviews alone are insufficient, behavioural data or further testing could help evaluate the findings before changes are prioritised.
 
 The transferable value of this project lies in the research practices I carried out. The next step is to apply them within a decision-making process shaped by users' needs, evidence, business priorities, and practical constraints.
-
-### 中文对照 · 从学术访谈到决策导向的用户研究
-
-这项研究让我获得了访谈设计、数据收集、主题分析和研究者反思的实践经验。同时，它也促使我思考：在产品研究环境中，这些方法需要如何调整。
-
-**从决策开始，而不是从访谈开始。** 在学术研究中，研究问题提供了研究的起点。而在产品团队中，我会首先明确业务问题、研究需要支持的决策，以及现有数据或相关团队成员的观点已经提供了哪些信息。这有助于界定研究范围，并判断访谈、观察、可用性测试、问卷，或多种方法的组合，哪一种更适合当前问题。
-
-**根据相关经历招募参与者。** 我的课程研究采访了一位符合研究条件、且方便参与的同学。在产品研究中，我会围绕与研究问题相关的用户行为和经历制定招募标准，同时考虑哪些用户群体可能提供不同的视角。筛选的目的是确认参与条件，而不是提前预测参与者会说些什么。
-
-**在探索与研究优先事项之间取得平衡。** 半结构式访谈不仅是按照提纲提问，也不是每当出现意料之外的话题就继续追加问题。我会判断新信息是否有助于回答研究问题、是否挑战了重要假设，以及它值得占用多少访谈时间。对于相关的发现，可以进一步探索；其他观察则可以记录下来，留待后续研究，而不使当前访谈偏离方向。
-
-**将研究发现与实际行动联系起来。** 我的课程研究通过三个主题解释了一名受访者的经历。而在产品研究中，我还会考虑不同参与者的发现如何比较、哪些证据支持每项解释，以及这些发现能够为哪些产品决策提供信息。当访谈本身不足以支持判断时，可以借助行为数据或后续测试进一步评估，再决定是否优先实施相关改动。
-
-这项课程研究能够迁移的价值，来自我实际开展过的研究活动。下一步则是在真实决策过程中应用这些方法，同时考虑用户需求、研究证据、业务优先级和实际资源限制。
 
 [← Full case study](README.md) · [Coding → Themes](coding-to-themes.md)
